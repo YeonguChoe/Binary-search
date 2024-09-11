@@ -60,7 +60,7 @@ int binary_search(vector<int> A, int n, int T)
 }
 ```
 
-### Finding the index of smallest element in the rotated list
+### LC33. Finding the index of smallest element in the rotated list
 
 <img src="LC33.jpeg" width="500" />
 
