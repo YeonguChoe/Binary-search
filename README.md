@@ -62,7 +62,7 @@ int binary_search(vector<int> A, int n, int T)
 
 ### LC33. Finding the index of smallest element in the rotated list
 
-<img src="LC33.PNG" width="500" />
+<img src="LC33.png" width="500" />
 
 ```cpp
 // Time complexity: O(log n)
